@@ -29,7 +29,7 @@ This project analyzes global **cybersecurity threats from 2015 to 2024** using *
 - **Real-time Threat Monitoring** – Use live cybersecurity threat feeds for continuous analysis  
 - **Industry-Specific Insights** – Deep dive into sector-wise vulnerabilities  
 
----
+
 
 ## Contributing  
 Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request.  
